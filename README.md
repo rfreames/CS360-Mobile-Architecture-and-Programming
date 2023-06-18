@@ -1,1 +1,1 @@
-# CS360-Mobile-Architect-and-Programming
+# CS360-Mobile-Architecture-and-Programming
